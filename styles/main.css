@@ -159,12 +159,22 @@ font-size: 15px;
 }
 
 .header__bage {
+    display: inline-block;
+    margin-top: 82px;
+    margin-left: 15px;
+    padding: 17px 31px;
     font-size: 18px;
     font-weight: 500;
+    color: #ffffff;
+    background: #4E887A;
+    border-radius: 15px;
+   
 }
 
 .header__title {
-
+    font-size: 55px;
+    font-weight: 400;
+    color: #ffffff;
 }
 
 .header__btn {
