@@ -172,12 +172,34 @@ font-size: 15px;
 }
 
 .header__title {
+    width: 100%;
+    margin-left: 15px;
+    margin-top: 6px;
     font-size: 55px;
     font-weight: 400;
+    line-height: 83px;
+    color: #ffffff;
+}
+
+.header__text {
+    margin-left: 15px;
+    margin-top: -6px;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 37.5px;
     color: #ffffff;
 }
 
 .header__btn {
-
+    display: inline-block;
+    padding: 32px 51px;
+    margin-left: 14px;
+    margin-top: 68px;
+    background: linear-gradient(129.54deg, #FF7B4E 15.57%, #ff584e 95.03%), #ffffff;
+    border-radius: 27px;
+    letter-spacing: 0px;
+    font-size: 27px;
+    font-weight: 500;
+    
 }
 
