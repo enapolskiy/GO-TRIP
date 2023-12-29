@@ -203,3 +203,12 @@ font-size: 15px;
     
 }
 
+.header__btn:hover {
+    background: #45ae9b;
+}
+
+.header__btn:active {
+    position: relative;
+    top: 1px;
+}
+
